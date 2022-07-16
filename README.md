@@ -1,5 +1,5 @@
 ## Welcome to My GitHub Page
-[Image](https://avatars.githubusercontent.com/u/21143857?v=4)
+<img src="https://avatars.githubusercontent.com/u/21143857?v=4" width="400">
 
 You can use the [editor on GitHub](https://github.com/gitipasand/gitipasand.github.io/edit/main/README.md) to maintain and preview the content for your website in Markdown files.
 
