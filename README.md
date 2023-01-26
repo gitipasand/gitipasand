@@ -3,7 +3,7 @@
 
   <p align="center">
     <a href="https://github.com/gitipasand/github-readme-stats/actions">
-      <img alt="Tests Passing" src="https://github.com/gitipasand/github-readme-stats/workflows/Test/badge.svg" />
+      <img alt="Tests Passing" src="https://github.com/anuraghazra/github-readme-stats/workflows/Test/badge.svg" />
     </a>
     <a href="https://github.com/gitipasand/github-readme-stats/graphs/contributors">
       <img alt="GitHub Contributors" src="https://img.shields.io/github/contributors/gitipasand/github-readme-stats" />
