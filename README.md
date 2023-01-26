@@ -4,6 +4,9 @@ You can use the [editor on GitHub](https://github.com/gitipasand/gitipasand.gith
 
 Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
 
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=gitipasand)](https://github.com/gitipasand/github-readme-stats)
+
+
 ### Markdown
 
 Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
@@ -11,7 +14,6 @@ Markdown is a lightweight and easy-to-use syntax for styling your writing. It in
 ```markdown
 Syntax highlighted code block
 
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=gitipasand)](https://github.com/gitipasand/github-readme-stats)
 
 # Header 1
 ## Header 2
