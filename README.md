@@ -17,7 +17,7 @@
   </p>
   
   [![Gmail Badge](https://img.shields.io/badge/-mgitipasand@gmail.com-c14438?style=flat&logo=Gmail&logoColor=white&link=mailto:mgitipasand@gmail.com)](mailto:mgitipasand@gmail.com)
-[![Linkedin Badge](https://img.shields.io/badge/-Mohammad%Gitipasand-0072b1?style=flat&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/mohammad-gitipasand-005400127/)]([https://linkedin.com/in/iman-ghafoori/](https://www.linkedin.com/in/mohammad-gitipasand-005400127/)) 
+[![Linkedin Badge](https://img.shields.io/badge/-Mohammad%Gitipasand-0072b1?style=flat&logo=Linkedin&logoColor=white&link=https://linkedin.com/in/imohammad-gitipasand-005400127/)](https://linkedin.com/in/mohammad-gitipasand-005400127/) 
 [![Telegram Badge](https://img.shields.io/badge/-Telegram-blue?style=flat&logo=telegram&logoColor=white&link=https://t.me/imanghafoori/)](https://t.me/imanghafoori/)
   
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=gitipasand&count_private=true)](https://github.com/gitipasand/github-readme-stats)
