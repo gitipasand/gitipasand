@@ -1,9 +1,6 @@
 # Hi, I am Mohammad :iran: :wave:
 <!-- <img align="center" src="https://avatars.githubusercontent.com/u/21143857?v=4" width="150" style="border-radius=100%"> -->
 
-  <p align="center">
-    [![Gmail Badge](https://img.shields.io/badge/-mgitipasand@gmail.com-c14438?style=flat&logo=Gmail&logoColor=white&link=mailto:mgitipasand@gmail.com)](mailto:mgitipasand@gmail.com)
-  </p>
   
   <p align="center">
     <a href="https://github.com/gitipasand/github-readme-stats/actions">
@@ -18,6 +15,9 @@
     <a href="https://github.com/gitipasand/github-readme-stats/pulls">
       <img alt="GitHub pull requests" src="https://img.shields.io/github/issues-pr/gitipasand/github-readme-stats?color=0088ff" />
     </a>
+  </p>
+  <p align="center">
+      [![Gmail Badge](https://img.shields.io/badge/-mgitipasand@gmail.com-c14438?style=flat&logo=Gmail&logoColor=white&link=mailto:mgitipasand@gmail.com)](mailto:mgitipasand@gmail.com)  
   </p>
   
   
