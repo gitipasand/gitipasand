@@ -11,6 +11,8 @@ Markdown is a lightweight and easy-to-use syntax for styling your writing. It in
 ```markdown
 Syntax highlighted code block
 
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=gitipasand)](https://github.com/gitipasand/github-readme-stats)
+
 # Header 1
 ## Header 2
 ### Header 3
