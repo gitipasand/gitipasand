@@ -17,5 +17,5 @@
     </a>
   </p>
   
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=gitipasand&count_private=true)](https://github.com/gitipasand/github-readme-stats)
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=gitipasand&count_private=true)](https://github.com/gitipasand/github-readme-stats&count_private=true)
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=gitipasand&layout=compact&exclude_repo=github-readme-stats,gitipasand.github.io&count_private=true)](https://github.com/gitipasand/github-readme-stats)
